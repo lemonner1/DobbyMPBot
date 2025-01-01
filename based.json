@@ -1,0 +1,13 @@
+{
+  "users": {},
+  "completedUsers": [],
+  "faculties": {
+    "gryffindor": 0,
+    "hufflepuff": 0,
+    "ravenclaw": 0,
+    "slytherin": 0
+  },
+  "moderators": [],
+  "bannedUsers": [],
+  "questEnded": false
+}

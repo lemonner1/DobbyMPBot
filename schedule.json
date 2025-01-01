@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Турнир «Карта Мародеров» по настольной игре 'Картографы'",
+    "startTime": "15:00",
+    "endTime": "17:00",
+    "hall": "Главный зал",
+    "host": "Андропов Артемий",
+    "link": "https://vk.com/wall-228449309_75",
+    "maxPlayers": 30,
+    "occupiedSpots": 0,
+    "status": "В игре"
+  },
+  {
+    "id": 2,
+    "name": "Бункер: Отряд Дамблдора",
+    "startTime": "15:00",
+    "endTime": "17:30",
+    "hall": "VIP",
+    "host": "Панфилова Валерия",
+    "link": "https://vk.com/wall-228449309_33",
+    "maxPlayers": 10,
+    "occupiedSpots": 5,
+    "status": "В игре"
+  },
+  {
+    "id": 3,
+    "name": "Бункер: Отряд Дамблдора",
+    "startTime": "18:00",
+    "endTime": "20:30",
+    "hall": "VIP",
+    "host": "Панфилова Валерия",
+    "link": "https://vk.com/wall-228449309_33",
+    "maxPlayers": 10,
+    "occupiedSpots": 9,
+    "status": "В игре"
+  },
+  {
+    "id": 4,
+    "name": "Кровь на часовой башне: Тьма над Хогвартсом",
+    "startTime": "15:00",
+    "endTime": "16:30",
+    "hall": "Ретро",
+    "host": "Прокофьев Александр",
+    "link": "https://vk.com/wall-228449309_51",
+    "maxPlayers": 10,
+    "occupiedSpots": 7,
+    "status": "В игре"
+  },
+  {
+    "id": 5,
+    "name": "Мафия: пожиратели смерти",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "hall": "Ретро",
+    "host": "Андропов Артемий",
+    "link": "https://vk.com/wall-228449309_30",
+    "maxPlayers": 10,
+    "occupiedSpots": 10,
+    "status": "В игре"
+  },
+  {
+    "id": 6,
+    "name": "Мафия: пожиратели смерти",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "hall": "Ретро",
+    "host": "Андропов Артемий",
+    "link": "https://vk.com/wall-228449309_30",
+    "maxPlayers": 10,
+    "occupiedSpots": 0,
+    "status": "В игре"
+  },
+  {
+    "id": 7,
+    "name": "ROOT: снежный лес",
+    "startTime": "17:00",
+    "endTime": "22:00",
+    "hall": "Городское Фэнтези",
+    "host": "Дюлькеева Анастасия",
+    "link": "https://vk.com/wall-228449309_28",
+    "maxPlayers": 5,
+    "occupiedSpots": 4,
+    "status": "В игре"
+  }
+]
